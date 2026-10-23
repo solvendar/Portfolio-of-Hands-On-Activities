@@ -70,23 +70,27 @@ contribute towards the attainment of SDG 9 – Industry, Innovation, and Infrast
   <tbody>
     <tr>
       <td align="left">Name</td>
-      <td align="center">Name</td>
+      <td align="center">Kevin Ranz J. Bal </td>
     </tr>
     <tr>
       <td align="left">School</td>
-      <td align="center">School</td>
+      <td align="center">Technological Institute of the Philippines </td>
     </tr>
     <tr>
       <td align="left">Section</td>
-      <td align="center">Section</td>
+      <td align="center">CPE21S4</td>
     </tr>
     <tr>
       <td align="left">Program</td>
-      <td align="center">BSCPE</td>
+      <td align="center">Bachelor Science of Computer Engineering</td>
     </tr>
     <tr>
       <td align="left">Year</td>
       <td align="center">Second Year</td>
+    </tr>
+    <tr>
+      <td align="left">Programming Language used</td>
+      <td align="center">C++</td>
     </tr>
   </tbody>
 </table>
