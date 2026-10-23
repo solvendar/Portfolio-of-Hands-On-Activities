@@ -1,6 +1,5 @@
+# CPE 010 - CPE21S4 - Data Structure and Algorithms 
 # Portfolio-of-Hands-On-Activities
-# CPE 010 - CPE21S4
-# Data Structure and Algorithms 
 
 Course Objective:
 
