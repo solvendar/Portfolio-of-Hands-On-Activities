@@ -23,6 +23,6 @@ contribute towards the attainment of SDG 9 – Industry, Innovation, and Infrast
 
 <table>
   <thead>
-    <tr><th align="left">Category</th><th align="left">Channels</th><th align="left">Playlist</th></tr>
+    <tr><th align="left">Hands-on Activity</th><th align="left">Number</th><th align="left">Score</th></tr>
   </thead>
   <tbody>
