@@ -3,7 +3,7 @@
 # Data Structure and Algorithms 
 
 
-Course Objective:
+# Course Objective:
 The course aims to provide an understanding of analyzing algorithms and their complexity. It also allows the development of
 data structures including Abstract Data types, Linked Lists, Stacks, Queues, Trees, and Graphs using the C++ programming language. 
 Additionally, use mathematical techniques to analyze the efficiency of the various algorithms presented, as well as
