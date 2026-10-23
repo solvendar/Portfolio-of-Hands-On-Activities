@@ -89,11 +89,3 @@ contribute towards the attainment of SDG 9 – Industry, Innovation, and Infrast
     
   </tbody>
 </table>
-
-# Portfolio-of-Hands-On-Activities
-<table>
-  <thead>
-    <tr><th align="left">Hands-on Activity</th><th align="center">Number</th><th align="right">Score</th></tr>
-  </thead>
-  <tbody>
-
