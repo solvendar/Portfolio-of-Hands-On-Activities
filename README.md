@@ -55,7 +55,6 @@ the common operations on the data structures discussed. The course also allows s
 conduct real-system performance measurements and analyses using the C++ programming language. This course aims to
 contribute towards the attainment of SDG 9 – Industry, Innovation, and Infrastructure.
 
-## Course Roadmap
 <div style="font-family: Arial, sans-serif; margin-top: 30px;">
   <h2 style="color: #a0a0a0; font-weight: normal; margin-bottom: 10px; font-size: 24px;">Course Roadmap</h2>
   <div style="height: 4px; background-color: #2bb65e; width: 100%; margin-bottom: 20px;"></div>
