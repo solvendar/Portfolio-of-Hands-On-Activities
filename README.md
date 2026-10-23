@@ -1,4 +1,10 @@
 # CPE 010 - CPE21S4 - Data Structure and Algorithms 
+## Student Information: 
+Name: Kevin Ranz J. Bal
+Section: CPE21S4
+Program: Bachelor Science of Computer Engineering
+Year: Second Year
+# Programming Language Used: 
 # Portfolio-of-Hands-On-Activities
 
 ## Course Description:
@@ -23,6 +29,6 @@ contribute towards the attainment of SDG 9 – Industry, Innovation, and Infrast
 
 <table>
   <thead>
-    <tr><th align="left">Hands-on Activity</th><th align="left">Number</th><th align="left">Score</th></tr>
+    <tr><th align="left">Hands-on Activity</th><th align="center">Number</th><th align="right">Score</th></tr>
   </thead>
   <tbody>
