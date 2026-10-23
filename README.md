@@ -5,17 +5,17 @@ Year: Second Year
 Programming Language Used: 
 <table>
   <thead>
-    <tr><th align="left">Name: </th><th align="center">Kevin Ranz J. Bal</th><th
+    <tr><th align="left">Name: </th><th align="center">Kevin Ranz J. Bal<
   </thead>
   <tbody>
 <table>
   <thead>
-    <tr><th align="left">School: </th><th align="center">Technological Institute of the Philippines</th><th
+    <tr><th align="left">School: </th><th align="center">Technological Institute of the Philippines<
   </thead>
   <tbody>
 <table>
   <thead>
-    <tr><th align="left">Section: </th><th align="center">CPE21S4</th><th
+    <tr><th align="left">Section: </th><th align="center">CPE21S4<
   </thead>
   <tbody>
 ## Course Description:
