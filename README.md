@@ -59,3 +59,28 @@ contribute towards the attainment of SDG 9 – Industry, Innovation, and Infrast
     <tr><th align="left">Hands-on Activity</th><th align="center">Number</th><th align="right">Score</th></tr>
   </thead>
   <tbody>
+
+<table>
+  <thead>
+    <tr><th align="left">Name </th><th align="center">Name
+  </thead>
+  <tbody>
+<table>
+  <thead>
+    <tr><th align="left">School </th><th align="center">School
+  </thead>
+  <tbody>
+<table>
+  <thead>
+    <tr><th align="left">Section </th><th align="center">Section
+  </thead>
+  <tbody>
+    <table>
+  <thead>
+    <tr><th align="left">Program </th><th align="center">BSCPE
+  </thead>
+  <tbody>
+    <tbody>
+    <table>
+  <thead>
+    <tr><th align="left">Year </th><th align="center">Second Year
