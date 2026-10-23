@@ -3,8 +3,8 @@
 <table border="1" cellpadding="8" style="border-collapse: collapse; width: 100%; max-width: 400px; font-family: Arial, sans-serif;">
   <thead>
     <tr>
-      <th align="left">Field</th>
-      <th align="left">Information</th>
+      <th align="center">Field</th>
+      <th align="center">Information</th>
     </tr>
   </thead>
   <tbody>
