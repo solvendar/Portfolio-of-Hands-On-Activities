@@ -1,36 +1,36 @@
 # CPE 010 - CPE21S4 - Data Structure and Algorithms 
-## Student Information: 
+## Student's Information: 
 <table border="1" cellpadding="8" style="border-collapse: collapse; width: 100%; max-width: 400px; font-family: Arial, sans-serif;">
   <thead>
     <tr>
       <th align="left">Field</th>
-      <th align="center">Information</th>
+      <th align="left">Information</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="left">Name</td>
-      <td align="center">Kevin Ranz J. Bal </td>
+      <td align="left">Kevin Ranz J. Bal </td>
     </tr>
     <tr>
       <td align="left">School</td>
-      <td align="center">Technological Institute of the Philippines </td>
+      <td align="left">Technological Institute of the Philippines </td>
     </tr>
     <tr>
       <td align="left">Section</td>
-      <td align="center">CPE21S4</td>
+      <td align="left">CPE21S4</td>
     </tr>
     <tr>
       <td align="left">Program</td>
-      <td align="center">Bachelor Science of Computer Engineering</td>
+      <td align="left">Bachelor Science of Computer Engineering</td>
     </tr>
     <tr>
       <td align="left">Year</td>
-      <td align="center">Second Year</td>
+      <td align="left">Second Year</td>
     </tr>
     <tr>
       <td align="left">Programming Language used</td>
-      <td align="center">C++</td>
+      <td align="left">C++</td>
     </tr>
   </tbody>
 </table>
