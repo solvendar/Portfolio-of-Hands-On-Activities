@@ -64,7 +64,7 @@ contribute towards the attainment of SDG 9 – Industry, Innovation, and Infrast
 </div>
 
 <!-- Roadmap Table Card -->
-<table style="width: 100%; border-collapse: collapse; border: 1px solid #e0e0e0; border-radius: 8px; overflow: hidden; font-family: Arial, sans-serif; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+<table style="width: 100%; border-collapse: collapse; border: 1px solid #e0e0e0; border-radius: 8px; overflow: hidden; font-family: Arial, sans-serif;">
   <tbody>
     <!-- Prelim Section -->
     <tr style="border-bottom: 1px solid #e0e0e0;">
@@ -77,7 +77,7 @@ contribute towards the attainment of SDG 9 – Industry, Innovation, and Infrast
     </tr>
 
     <!-- Midterm Section -->
-    <tr style="border-bottom: 1px solid #e0e0e0;">
+  <tr style="border-bottom: 1px solid #e0e0e0;">
       <td style="background-color: #2bb65e; color: white; width: 25%; text-align: center; font-weight: bold; font-size: 16px; padding: 25px 15px;">
         Midterm
       </td>
@@ -87,7 +87,7 @@ contribute towards the attainment of SDG 9 – Industry, Innovation, and Infrast
     </tr>
 
     <!-- Final Section -->
-    <tr>
+  <tr>
       <td style="background-color: #1a1a1a; color: white; width: 25%; text-align: center; font-weight: bold; font-size: 16px; padding: 25px 15px;">
         Final
       </td>
@@ -95,8 +95,10 @@ contribute towards the attainment of SDG 9 – Industry, Innovation, and Infrast
         Trees, binary search trees, AVL trees, traversal algorithms, graphs, adjacency matrix and list, breadth-first search, depth-first search, and algorithm complexity analysis.
       </td>
     </tr>
+    
   </tbody>
 </table>
+
 
 
 # Portfolio-of-Hands-On-Activities
