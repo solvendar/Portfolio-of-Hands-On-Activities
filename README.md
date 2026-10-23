@@ -32,6 +32,7 @@
     <tr><th align="left">Programming Language Used </th><th align="center">C++
   </thead>
   <tbody>
+    
 ## Course Description:
 
 This course focuses on solving computational problems that manipulate collected data, studying a core set of data
