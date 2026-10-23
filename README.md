@@ -1,15 +1,16 @@
 # CPE 010 - CPE21S4 - Data Structure and Algorithms 
 ## Student Information: 
-Name: Kevin Ranz J. Bal
-Section: CPE21S4
-Program: Bachelor Science of Computer Engineering
-Year: Second Year
-# Programming Language Used: 
-# Portfolio-of-Hands-On-Activities
+###Name: Kevin Ranz J. Bal
+###School: Technological Institute of the Philippines
+###Section: CPE21S4
+###Program: Bachelor Science of Computer Engineering
+###Year: Second Year
+### Programming Language Used: 
+#### Portfolio-of-Hands-On-Activities
 
 ## Course Description:
 
-This course focuses on solving computational problems that manipulate collected data, studying a core set of data
+###This course focuses on solving computational problems that manipulate collected data, studying a core set of data
 abstractions, data structures, and algorithms that provide a foundation for writing efficient programs. The course content
 includes theoretical topics in algorithmic efficiency and complexity, along with abstract data types, including graphs, networks,
 trees (including binary and multi-way trees), heaps, stacks, and priority queues. Search topics, including hashing, trees,
@@ -20,7 +21,7 @@ effective program or software application that will solve a particular engineeri
 
 ## Course Objective:
 
-The course aims to provide an understanding of analyzing algorithms and their complexity. It also allows the development of
+###The course aims to provide an understanding of analyzing algorithms and their complexity. It also allows the development of
 data structures including Abstract Data types, Linked Lists, Stacks, Queues, Trees, and Graphs using the C++ programming language. 
 Additionally, use mathematical techniques to analyze the efficiency of the various algorithms presented, as well as
 the common operations on the data structures discussed. The course also allows students to implement algorithms and
