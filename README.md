@@ -55,6 +55,50 @@ the common operations on the data structures discussed. The course also allows s
 conduct real-system performance measurements and analyses using the C++ programming language. This course aims to
 contribute towards the attainment of SDG 9 – Industry, Innovation, and Infrastructure.
 
+## Course Roadmap
+
+<!-- Course Roadmap Header -->
+<div style="font-family: Arial, sans-serif; margin-top: 30px;">
+  <h2 style="color: #a0a0a0; font-weight: normal; margin-bottom: 10px; font-size: 24px;">Course Roadmap</h2>
+  <div style="height: 4px; background-color: #2bb65e; width: 100%; margin-bottom: 20px;"></div>
+</div>
+
+<!-- Roadmap Table Card -->
+<table style="width: 100%; border-collapse: collapse; border: 1px solid #e0e0e0; border-radius: 8px; overflow: hidden; font-family: Arial, sans-serif; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+  <tbody>
+    <!-- Prelim Section -->
+    <tr style="border-bottom: 1px solid #e0e0e0;">
+      <td style="background-color: #00853c; color: white; width: 25%; text-align: center; font-weight: bold; font-size: 16px; padding: 25px 15px;">
+        Prelim
+      </td>
+      <td style="color: #666666; font-size: 14px; line-height: 1.6; padding: 20px 25px; background-color: #ffffff;">
+        Course orientation, C++ programming review, abstract data types, space and time complexity, arrays, linked lists, dynamic memory allocation, and stacks.
+      </td>
+    </tr>
+
+    <!-- Midterm Section -->
+    <tr style="border-bottom: 1px solid #e0e0e0;">
+      <td style="background-color: #2bb65e; color: white; width: 25%; text-align: center; font-weight: bold; font-size: 16px; padding: 25px 15px;">
+        Midterm
+      </td>
+      <td style="color: #666666; font-size: 14px; line-height: 1.6; padding: 20px 25px; background-color: #ffffff;">
+        Queues, searching techniques, linear search, binary search, hashing, and basic sorting algorithms.
+      </td>
+    </tr>
+
+    <!-- Final Section -->
+    <tr>
+      <td style="background-color: #1a1a1a; color: white; width: 25%; text-align: center; font-weight: bold; font-size: 16px; padding: 25px 15px;">
+        Final
+      </td>
+      <td style="color: #666666; font-size: 14px; line-height: 1.6; padding: 20px 25px; background-color: #ffffff;">
+        Trees, binary search trees, AVL trees, traversal algorithms, graphs, adjacency matrix and list, breadth-first search, depth-first search, and algorithm complexity analysis.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 # Portfolio-of-Hands-On-Activities
 <table>
   <thead>
