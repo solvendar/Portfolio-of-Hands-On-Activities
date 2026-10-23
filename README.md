@@ -60,27 +60,33 @@ contribute towards the attainment of SDG 9 – Industry, Innovation, and Infrast
   </thead>
   <tbody>
 
-<table>
+<table border="1" cellpadding="8" style="border-collapse: collapse; width: 100%; max-width: 400px; font-family: Arial, sans-serif;">
   <thead>
-    <tr><th align="left">Name </th><th align="center">Name
+    <tr>
+      <th align="left">Field</th>
+      <th align="center">Information</th>
+    </tr>
   </thead>
   <tbody>
-<table>
-  <thead>
-    <tr><th align="left">School </th><th align="center">School
-  </thead>
-  <tbody>
-<table>
-  <thead>
-    <tr><th align="left">Section </th><th align="center">Section
-  </thead>
-  <tbody>
-    <table>
-  <thead>
-    <tr><th align="left">Program </th><th align="center">BSCPE
-  </thead>
-  <tbody>
-    <tbody>
-    <table>
-  <thead>
-    <tr><th align="left">Year </th><th align="center">Second Year
+    <tr>
+      <td align="left">Name</td>
+      <td align="center">Name</td>
+    </tr>
+    <tr>
+      <td align="left">School</td>
+      <td align="center">School</td>
+    </tr>
+    <tr>
+      <td align="left">Section</td>
+      <td align="center">Section</td>
+    </tr>
+    <tr>
+      <td align="left">Program</td>
+      <td align="center">BSCPE</td>
+    </tr>
+    <tr>
+      <td align="left">Year</td>
+      <td align="center">Second Year</td>
+    </tr>
+  </tbody>
+</table>
