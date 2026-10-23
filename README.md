@@ -17,16 +17,16 @@
       <td align="left">Technological Institute of the Philippines </td>
     </tr>
     <tr>
-      <td align="left">Section</td>
-      <td align="left">CPE21S4</td>
-    </tr>
-    <tr>
       <td align="left">Program</td>
       <td align="left">Bachelor Science of Computer Engineering</td>
     </tr>
-    <tr>
+       <tr>
       <td align="left">Year</td>
       <td align="left">Second Year</td>
+    </tr>
+    <tr>
+      <td align="left">Section</td>
+      <td align="left">CPE21S4</td>
     </tr>
     <tr>
       <td align="left">Programming Language used</td>
