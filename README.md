@@ -1,4 +1,4 @@
-# CPE 010 - CPE21S4 - Data Structure and Algorithms 
+# CPE 010 - Data Structure and Algorithms 
 ## Student's Information: 
 <table border="1" cellpadding="8" style="border-collapse: collapse; width: 100%; max-width: 400px; font-family: Arial, sans-serif;">
   <thead>
