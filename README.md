@@ -1,12 +1,11 @@
 # CPE 010 - CPE21S4 - Data Structure and Algorithms 
 ## Student Information: 
-###Name: Kevin Ranz J. Bal
-###School: Technological Institute of the Philippines
-###Section: CPE21S4
-###Program: Bachelor Science of Computer Engineering
-###Year: Second Year
-### Programming Language Used: 
-#### Portfolio-of-Hands-On-Activities
+Name: Kevin Ranz J. Bal
+School: Technological Institute of the Philippines
+Section: CPE21S4
+Program: Bachelor Science of Computer Engineering
+Year: Second Year
+Programming Language Used: 
 
 ## Course Description:
 
@@ -28,6 +27,7 @@ the common operations on the data structures discussed. The course also allows s
 conduct real-system performance measurements and analyses using the C++ programming language. This course aims to
 contribute towards the attainment of SDG 9 – Industry, Innovation, and Infrastructure.
 
+# Portfolio-of-Hands-On-Activities
 <table>
   <thead>
     <tr><th align="left">Hands-on Activity</th><th align="center">Number</th><th align="right">Score</th></tr>
