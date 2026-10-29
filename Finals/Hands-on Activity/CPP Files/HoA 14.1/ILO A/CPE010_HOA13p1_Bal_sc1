@@ -1,0 +1,47 @@
+#include <iostream>
+#include <cstdlib>
+#include <chrono>
+#include <vector>
+#include "mergesort.h"
+
+int main(){
+
+    const int N[] = {
+        100, // 100 sorted elements (N = 100)
+        1000, // 1000 sorted elements (N = 1000)
+        10000}; // 10000 sorted elements (N = 10000)
+
+    std::cout << "\n=============================== | MERGE SORT | ==============================\n";
+    std::cout << "\n=============================== | BEST CASE | ===============================\n";
+
+    for (int SIZE : N){
+        std::vector<int> bestCASE(SIZE);
+        for (int i = 0; i < SIZE; i++){
+            bestCASE[i] = i + 1;
+        }
+
+        auto startBEST = std::chrono::high_resolution_clock::now();
+        mergeSort(bestCASE.data(), 0, SIZE - 1);
+        auto endBEST = std::chrono::high_resolution_clock::now();
+        auto bestTIME = std::chrono::duration_cast<std::chrono::microseconds>(endBEST - startBEST);
+        std::cout << "\nInput Size (N): " << SIZE;
+        std::cout << "\nBEST CASE (Sorted): "<< bestTIME.count() << " microseconds\n";
+    }
+
+    std::cout << "\n=============================== | WORST CASE | ==============================\n";
+
+    for (int SIZE : N){
+        std::vector<int> worstCASE(SIZE);
+        for (int i = 0; i < SIZE; i++){
+            worstCASE[i] = SIZE - i;
+        }
+
+        auto startWORST = std::chrono::high_resolution_clock::now();
+        mergeSort(worstCASE.data(), 0, SIZE - 1);
+        auto endWORST = std::chrono::high_resolution_clock::now();
+        auto worstTIME = std::chrono::duration_cast<std::chrono::microseconds>(endWORST - startWORST);
+        std::cout << "\nInput Size (N): " << SIZE;
+        std::cout << "\nWORST CASE (Reverse Sorted): "<< worstTIME.count() << " microseconds\n";
+    }
+    return 0;
+}

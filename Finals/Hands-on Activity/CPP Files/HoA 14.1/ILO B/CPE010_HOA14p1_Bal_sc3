@@ -1,0 +1,20 @@
+#include <iostream>
+#include "searchingAlgo.h"
+
+int main() {
+
+    std::cout << "\n================= | WORST-CASE BINARY SEARCH | =================\n";
+
+    testBinarySearch(1000);
+    testBinarySearch(10000);
+    testBinarySearch(100000);
+
+    std::cout << "\n================= | WORST-CASE LINEAR SEARCH | =================\n";
+
+    testLinearSearch(1000);
+    testLinearSearch(10000);
+    testLinearSearch(100000);
+
+    return 0;
+}
+
